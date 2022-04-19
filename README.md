@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zizoko1337
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML5, CSS3, JS, GitHub & React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML5, CSS3, Bootstrap, JS, Node.js, GitHub & Vue.js
 - 📫 How to reach me mkgt1337@gmail.com
 
 <!---
