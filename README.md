@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zizoko1337
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning HTML5, CSS3, Bootstrap, JS, Node.js, GitHub & Vue.js
+- 🔨 I also know how to edit videos, images and i can create amazing vector graphics.
 - 📫 How to reach me mkgt1337@gmail.com
 
 <!---
