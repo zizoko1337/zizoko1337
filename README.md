@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zizoko1337
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML5, CSS3, Bootstrap, JS, Node.js, GitHub & Vue.js
+- 👋 Hi, I’m @zizoko1337 aka mkCode
+- 👀 I’m frontend developer
+- 🌱 My stack HTML5, CSS3, Bootstrap, JS, Node.js, GitHub & Vue.js
 - 🔨 I also know how to edit videos, images and i can create amazing vector graphics.
-- 📫 How to reach me mkgt1337@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mateusz-kr%C3%B3l-01b731185/">linkedin</a>
 
 <!---
 zizoko1337/zizoko1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
