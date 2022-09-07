@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zizoko1337 aka mkCode
 - 👀 I’m frontend developer
-- 🌱 My stack HTML5, CSS3, Bootstrap, JS, Node.js, GitHub & Vue.js
+- 🌱 My stack HTML5, CSS3, Bootstrap, JavaScript, Node.js, GitHub & Vue.js
 - 🔨 I also know how to edit videos, images and i can create amazing vector graphics.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mateusz-kr%C3%B3l-01b731185/">linkedin</a>
  
