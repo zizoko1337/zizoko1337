@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Frontend developer from Poland (Vue.js)</h3>
+<h4 align="center">Open to job offers</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zizoko1337&label=Profile%20views&color=0e75b6&style=flat" alt="zizoko1337" /> </p>
 
