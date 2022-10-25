@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Frontend developer from Poland (Vue.js)</h3>
-<h4 align="center">Open to job offers</h4>
+<h4 align="center">Open to job offers</h4> 
 
 
 - Check out my latest commercial project [Oznacz Parking](https://oznaczparking.pl/)
