@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">Frontend developer from Poland (Vue.js)</h3>
+<h3 align="center">Frontend developer from Poland (Vue.js)</h3> 
 <h4 align="center">Open to job offers</h4> 
 
 
